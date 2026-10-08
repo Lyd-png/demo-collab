@@ -3,6 +3,7 @@ def greet(name):
     return f"Hello, {name}!"
 
 def farewell(name):
+    """返回告别语。"""
     return f"Goodbye, {name}!"
     
 if __name__ == "__main__":
